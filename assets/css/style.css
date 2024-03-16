@@ -998,7 +998,6 @@ h3 {
 /*========== Contact ==========*/
 .contact-box {
     flex: 0 0 35%;
-    max-width: 40%;
 }
 
 .contact-form {
@@ -1375,7 +1374,7 @@ h3 {
     }
 
     .contact-box {
-        flex: 0 0 40%;
+        flex: 0 0 10%;
     }
 }
 
